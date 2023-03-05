@@ -10,13 +10,15 @@ Para ejecutar este código hacer:
 
 2. Ejecutar:
 
-    python3 -m venv venv
+```
+python3 -m venv venv
 
-    source venv/bin/activate
+source venv/bin/activate
 
-    pip install -r requirements.txt
+pip install -r requirements.txt
 
-    python tutorial.py
+python tutorial.py
+```
 
 Hecho con ❤️ por @rmblockcode
 
